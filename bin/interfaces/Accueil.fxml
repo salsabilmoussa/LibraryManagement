@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="415.0" prefWidth="684.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="488.0" fitWidth="696.0" pickOnBounds="true" preserveRatio="true" AnchorPane.leftAnchor="0.0">
+         <image>
+            <Image url="@../images/Capture1.PNG" />
+         </image>
+      </ImageView>
+      <Label alignment="CENTER" layoutX="135.0" layoutY="101.0" text="Bienvenue dans notre bibliothèque !" textFill="#33698f" AnchorPane.bottomAnchor="333.4" AnchorPane.leftAnchor="135.0" AnchorPane.rightAnchor="135.4000000000001" AnchorPane.topAnchor="101.0">
+         <font>
+            <Font name="Berlin Sans FB" size="28.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
